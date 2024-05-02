@@ -4,4 +4,6 @@ elseif game.PlaceId == 6155695903 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/q/main/undertale%20judgment%20simulator%20script"))()
 elseif game.PlaceId == 3160283276 or game.PlaceId == 3169713645 or game.PlaceId == 3229576096 or game.PlaceId == 3497861914 or game.PlaceId == 3481977864 or game.PlaceId == 4235112718 or game.PlaceId == 4473825494 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/errmmmm/main/SANS%20MULTIVERSAL%20BATTLES%20HACK%20i%20mean%20sans%20multiverse%20my%20fault"))()
+elseif game.PlaceId == 4620729627  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/smb1/main/fc"))()
 end
