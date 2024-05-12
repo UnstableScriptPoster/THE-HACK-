@@ -6,4 +6,6 @@ elseif game.PlaceId == 3160283276 or game.PlaceId == 3169713645 or game.PlaceId 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/errmmmm/main/SANS%20MULTIVERSAL%20BATTLES%20HACK%20i%20mean%20sans%20multiverse%20my%20fault"))()
 elseif game.PlaceId == 4620729627  then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/smb1/main/fc"))()
+elseif game.PlaceId == 11869404361  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/soul-ops-destroyer/main/gaming"))()
 end
