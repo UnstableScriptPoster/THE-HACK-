@@ -1,11 +1,25 @@
 if game.PlaceId == 14204959937 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/undertale-multiversal-calamity-hack/main/the%20hack"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/undertale-multiversal-calamity-hack/main/the%20hack"))() -- umc2
 elseif game.PlaceId == 6155695903 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/q/main/undertale%20judgment%20simulator%20script"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/q/main/undertale%20judgment%20simulator%20script"))() -- judgment simulator
 elseif game.PlaceId == 3160283276 or game.PlaceId == 3169713645 or game.PlaceId == 3229576096 or game.PlaceId == 3497861914 or game.PlaceId == 3481977864 or game.PlaceId == 4235112718 or game.PlaceId == 4473825494 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/errmmmm/main/SANS%20MULTIVERSAL%20BATTLES%20HACK%20i%20mean%20sans%20multiverse%20my%20fault"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/errmmmm/main/SANS%20MULTIVERSAL%20BATTLES%20HACK%20i%20mean%20sans%20multiverse%20my%20fault"))() -- sans multiverse
 elseif game.PlaceId == 4620729627  then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/smb1/main/fc"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/smb1/main/fc"))() -- smb1
 elseif game.PlaceId == 11869404361  then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/soul-ops-destroyer/main/gaming"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/soul-ops-destroyer/main/gaming"))() -- opps destroyer
+elseif game.PlaceId == 4597941024  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/undertale-multiversal-destruction-main/main/fc"))()-- multiversal destruction or whatever the fuck also i fucking hate nig (Jk)
+elseif game.PlaceId == 4662925491  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/bad-times/main/bad"))() -- bad time sans
+elseif game.PlaceId == 4674040425  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/insanity-elmo/main/i%20hate%20having%20to%20upload%20these%20seperately"))() -- insane af elmo
+elseif game.PlaceId == 4842106542  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/older-elmo/main/fuk"))() -- old insane af elmo
+elseif game.PlaceId == 5061251807  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/krtmiy/main/drakeleaks"))() -- dustkermit
+elseif game.PlaceId == 5113408116  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/elmos-ashes/main/ihaveadrugproblem"))() -- dust elmo
+elseif game.PlaceId == 4898918316 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/ultra/main/comedy"))() -- ultra boy
 end
