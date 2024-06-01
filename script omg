@@ -9,7 +9,7 @@ elseif game.PlaceId == 4620729627  then
 elseif game.PlaceId == 11869404361  then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/soul-ops-destroyer/main/gaming"))() -- opps destroyer
 elseif game.PlaceId == 4597941024  then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/undertale-multiversal-destruction-main/main/fc"))()-- multiversal destruction or whatever the fuck also i fucking hate nig (Jk)
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/undertale-multiversal-destruction-main/main/fc"))()-- multiversal destruction or whatever the fuck also i fucking hated making this
 elseif game.PlaceId == 4662925491  then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/bad-times/main/bad"))() -- bad time sans
 elseif game.PlaceId == 4674040425  then
@@ -22,4 +22,6 @@ elseif game.PlaceId == 5113408116  then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/elmos-ashes/main/ihaveadrugproblem"))() -- dust elmo
 elseif game.PlaceId == 4898918316 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/ultra/main/comedy"))() -- ultra boy
+elseif game.PlaceId == 6913960180 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/crazy-multiverse-timeline/main/no"))() -- crazy multiverse timeline 
 end
