@@ -28,4 +28,6 @@ elseif game.PlaceId == 3224832964 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/gaster-blaster-battles/main/fc"))() -- gaster blaster battles 
 elseif game.PlaceId == 9634672598 or game.PlaceId == 10120049617 or game.PlaceId == 9924968700 or game.PlaceId == 10119893020 or game.PlaceId == 9974200618 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/final-multiversal-world/main/i%20will%20not%20name%20my%20file"))() -- final something fuck that game
+elseif game.PlaceId == 5092283807 or game.PlaceId == 5783628372 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/original-soul-ops/main/soul%20ops%20omg"))() -- the original soul ops omg
 end
