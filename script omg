@@ -30,4 +30,6 @@ elseif game.PlaceId == 9634672598 or game.PlaceId == 10120049617 or game.PlaceId
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/final-multiversal-world/main/i%20will%20not%20name%20my%20file"))() -- final something fuck that game
 elseif game.PlaceId == 5092283807 or game.PlaceId == 5783628372 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/original-soul-ops/main/soul%20ops%20omg"))() -- the original soul ops omg
+elseif game.PlaceId == 15654696472 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/god-ops/main/trash%20game"))() -- god ops
 end
