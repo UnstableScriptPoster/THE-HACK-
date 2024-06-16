@@ -34,4 +34,6 @@ elseif game.PlaceId == 15654696472 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/god-ops/main/trash%20game"))() -- god ops
 elseif game.PlaceId == 11854016673 or game.PlaceId == 15356481651 or game.PlaceId == 15858731229 or game.PlaceId == 14692571324 or game.PlaceId == 5783628372 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/funny-boss-rush/main/lazy%20script"))() -- funny boss rush
+elseif game.PlaceId == 5690862508 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/sans-multiversal-the-second-coming/main/couldnt%20come%20up%20with%20many%20features"))() -- second coming of smb1
 end
