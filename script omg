@@ -36,6 +36,8 @@ elseif game.PlaceId == 11854016673 or game.PlaceId == 15356481651 or game.PlaceI
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/funny-boss-rush/main/lazy%20script"))() -- funny boss rush
 elseif game.PlaceId == 5690862508 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/sans-multiversal-the-second-coming/main/couldnt%20come%20up%20with%20many%20features"))() -- second coming of smb1
+elseif game.PlaceId == 8592703594 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/unexplained-anomalies/main/among%20us"))() -- unexplained anomalies
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
