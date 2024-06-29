@@ -38,6 +38,8 @@ elseif game.PlaceId == 5690862508 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/sans-multiversal-the-second-coming/main/couldnt%20come%20up%20with%20many%20features"))() -- second coming of smb1
 elseif game.PlaceId == 8592703594 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/unexplained-anomalies/main/among%20us"))() -- unexplained anomalies
+elseif game.PlaceId == 10018283161 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/infected-/main/multivese"))() -- infected multiverse 2
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
