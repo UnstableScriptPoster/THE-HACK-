@@ -42,6 +42,10 @@ elseif game.PlaceId == 10018283161 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/infected-/main/multivese"))() -- infected multiverse 2
 elseif game.PlaceId == 5190818929 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/battle/main/for%20the%20multiverse"))() -- battle for the multiverse
+elseif game.PlaceId == 6416665831 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/untitled/main/battles"))() -- sans game rnemaek
+elseif game.PlaceId == 11593829265 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/an-untitled-/main/pest"))() --utntiled pesit
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
