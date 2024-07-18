@@ -45,9 +45,11 @@ elseif game.PlaceId == 5190818929 then
 elseif game.PlaceId == 6416665831 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/untitled/main/battles"))() -- sans game rnemaek
 elseif game.PlaceId == 11593829265 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/an-untitled-/main/pest"))() --utntiled pesit
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/an-untitled-/main/pest"))() --remad pesit
 elseif game.PlaceId == 12238191480 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/abtkl/main/extremely%20halal%20mode"))() --undertale aus fight
+elseif game.PlaceId == 10967866439 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/unyiylrf-something-batltles/main/fc"))() --untitled snas battles
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
