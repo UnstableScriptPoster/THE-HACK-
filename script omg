@@ -50,6 +50,8 @@ elseif game.PlaceId == 12238191480 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/abtkl/main/extremely%20halal%20mode"))() --undertale aus fight
 elseif game.PlaceId == 10967866439 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/unyiylrf-something-batltles/main/fc"))() --untitled snas battles
+elseif game.PlaceId == 10653151312 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/soul-ops/main/rushed%20bosses%20(extended%20as%20well)"))() --soul ops boss rush extended
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
