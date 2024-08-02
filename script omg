@@ -52,6 +52,8 @@ elseif game.PlaceId == 10967866439 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/unyiylrf-something-batltles/main/fc"))() --untitled snas battles
 elseif game.PlaceId == 10653151312 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/soul-ops/main/rushed%20bosses%20(extended%20as%20well)"))() --soul ops boss rush extended
+elseif game.PlaceId == 7915723993 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/multiverse-simulator/main/wow%20that%20game%20sucked"))() --multiverse simulator
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
