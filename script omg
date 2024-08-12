@@ -2,8 +2,12 @@ if game.PlaceId == 14204959937 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/undertale-multiversal-calamity-hack/main/the%20hack"))() -- umc2
 elseif game.PlaceId == 6155695903 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/q/main/undertale%20judgment%20simulator%20script"))() -- judgment simulator
-elseif game.PlaceId == 3160283276 or game.PlaceId == 3169713645 or game.PlaceId == 3229576096 or game.PlaceId == 3497861914 or game.PlaceId == 3481977864 or game.PlaceId == 4235112718 or game.PlaceId == 4473825494 then
+elseif game.PlaceId == 3160283276 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/errmmmm/main/SANS%20MULTIVERSAL%20BATTLES%20HACK%20i%20mean%20sans%20multiverse%20my%20fault"))() -- sans multiverse
+elseif game.PlaceId == 3169713645 or game.PlaceId == 3229576096 or game.PlaceId == 3497861914 or game.PlaceId == 3481977864 or game.PlaceId == 4235112718  then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/sans-multiverse/main/weak%20fucks"))() -- sans multiverse weak fucks
+elseif game.PlaceId == 4473825494 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/sansmultiverse/main/fatal%20error"))() -- sans multiverse fatal error
 elseif game.PlaceId == 4620729627  then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/smb1/main/fc"))() -- smb1
 elseif game.PlaceId == 11869404361  then
