@@ -60,6 +60,10 @@ elseif game.PlaceId == 7915723993 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/multiverse-simulator/main/wow%20that%20game%20sucked"))() --multiverse simulator
 elseif game.PlaceId == 16518202551 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/a-bit-op-soul-ops-script/main/no%20anticheat%20game%20lol"))() --a bit balanced soul ops
+elseif game.PlaceId == 113833787055952 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/jackos-sans-multiverse/refs/heads/main/main"))() --jackos sans multiverse
+elseif game.PlaceId == 74155739636720 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/underverse/refs/heads/main/massacre"))() --undererse massacre (extension of jackos sans multiverse)
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
