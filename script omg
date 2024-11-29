@@ -64,9 +64,14 @@ elseif game.PlaceId == 113833787055952 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/jackos-sans-multiverse/refs/heads/main/main"))() --jackos sans multiverse
 elseif game.PlaceId == 74155739636720 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/underverse/refs/heads/main/massacre"))() --undererse massacre (extension of jackos sans multiverse)
+elseif game.PlaceId == 95572613341650 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/final-error/refs/heads/main/sans%20multiverse"))() --final error (extension of jackos sans multiverse)
+elseif game.PlaceId == 95499536588448 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/evolution-dust/refs/heads/main/sans%20multiverse"))() --evolution dust (extension of jackos sans multiverse)
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ILOVETHECOFFINOFANDYANDLEYLEY/Universal-/main/hack"))() -- universal
 end
+
 
 
 
