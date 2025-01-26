@@ -72,10 +72,11 @@ elseif game.PlaceId == 95499536588448 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/evolution-dust/refs/heads/main/sans%20multiverse"))() --evolution dust (extension of jackos sans multiverse)
 elseif game.PlaceId == 16615498649 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/reincarnation/refs/heads/main/of%20sans%20multiverse"))() --sans multiverse reincarnated
+elseif game.PlaceId == 124989915180294 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/chaotic/refs/heads/main/utmm"))() --chaos utmm
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/Universal-/main/hack"))() -- universal
 end
-
 
 
 
