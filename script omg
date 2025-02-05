@@ -74,6 +74,8 @@ elseif game.PlaceId == 16615498649 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/reincarnation/refs/heads/main/of%20sans%20multiverse"))() --sans multiverse reincarnated
 elseif game.PlaceId == 124989915180294 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/chaotic/refs/heads/main/utmm"))() --chaos utmm
+elseif game.PlaceId == 13118242074 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/second-ops/refs/heads/main/very-lazy-script"))() --soul ops 2
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/Universal-/main/hack"))() -- universal
 end
