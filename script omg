@@ -76,6 +76,12 @@ elseif game.PlaceId == 124989915180294 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/chaotic/refs/heads/main/utmm"))() --chaos utmm
 elseif game.PlaceId == 13118242074 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/second-ops/refs/heads/main/very-lazy-script"))() --soul ops 2
+elseif game.PlaceId == 4994661268 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/ujd/refs/heads/main/main"))() --ujd
+elseif game.PlaceId == 7150950346 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/singleplayer/refs/heads/main/ujd"))() --ujd singleplayer
+elseif game.PlaceId == 5689878965 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/reaper/refs/heads/main/ujd"))() --ujd rc
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/Universal-/main/hack"))() -- universal
 end
