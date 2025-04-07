@@ -38,8 +38,6 @@ elseif game.PlaceId == 5783628372 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/soulops/refs/heads/main/wrath"))() -- Wrath (extension of soul ops)
 elseif game.PlaceId == 15654696472 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/god-ops/main/trash%20game"))() -- god ops
-elseif game.PlaceId == 11854016673 or game.PlaceId == 15356481651 or game.PlaceId == 15858731229 or game.PlaceId == 14692571324 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/funny-boss-rush/main/lazy%20script"))() -- funny boss rush
 elseif game.PlaceId == 5690862508 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/sans-multiversal-the-second-coming/main/couldnt%20come%20up%20with%20many%20features"))() -- second coming of smb1
 elseif game.PlaceId == 8592703594 then
@@ -85,8 +83,6 @@ elseif game.PlaceId == 5689878965 then
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/Universal-/main/hack"))() -- universal
 end
-
-
 
 
 
