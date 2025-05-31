@@ -80,17 +80,11 @@ elseif game.PlaceId == 7150950346 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/singleplayer/refs/heads/main/ujd"))() --ujd singleplayer
 elseif game.PlaceId == 5689878965 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/reaper/refs/heads/main/ujd"))() --ujd rc
+elseif game.PlaceId == 84327551993171 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/destroyers/refs/heads/main/are%20destructive"))() --Undertale: Multiversal Destroyers Revival
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/UnstableScriptPoster/Universal-/main/hack"))() -- universal
 end
-
-
-
-
-
-
-
-
 
 
 
